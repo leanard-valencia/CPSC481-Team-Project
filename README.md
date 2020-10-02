@@ -1,8 +1,8 @@
 # CPSC481-Team-Project - Stage - One 
 Team Q - T04
-Aarti Barakale
-John Leanard Valencia 
-David Akobundul
+- Aarti Barakale
+- John Leanard Valencia 
+- David Akobundul
 
 The expectations for stage one are: 
 - To create an online repository 
