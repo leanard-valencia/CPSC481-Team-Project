@@ -1,6 +1,18 @@
-# CPSC481-Team-Project
+# CPSC481-Team-Project-Stage-Three
 
-Project idea 1: The adaptation of an AR menu in the cubical restaurants like the ones constructed in several cities across Europe. The implementation is 
-in the sense that you can see the menu on the mirror of the cubical (house designed) booth for the guests at the restaurant. You can with your bare eyes viusalise your menu, with the additional features of do it yourself food also being able to be done through this AR. 
-We can incorporate the online delivery features that allow you to see your order being received by the chef, order being prepared, and the cherry on top, a robot getting it to your cubical on a tray! 
-We could also have a SIRI/Alexa function in the cubical that helps one call out to say, the assistant chef (or an AI) in order to make quick changes or say address some allergies they might have not taken into account while placing the order, or any other question for that matter! 
+
+Team Q - T04
+
+- Aarti Barakale
+- John Leanard Valencia
+- David Akobundul
+
+The expectations for stage three are:
+- To conduct brainstorming sessions 
+- To conduct affinity diagramming sessions 
+- To select and polish ideas 
+- To refine ideas and create a storyboard 
+- To create a low- fidelity prototype 
+- To conduct a Task-centered system cognitive walkthrough
+- To create a 4 minute prototype demo 
+- To prepare an 8-12 minute project presentation for Stage Three
