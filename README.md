@@ -1,4 +1,4 @@
-# CPSC481-Team-Project-Stage-Three
+# CPSC481-Team-Project-Stage-Four
 
 
 Team Q - T04
@@ -7,12 +7,14 @@ Team Q - T04
 - John Leanard Valencia
 - David Akobundul
 
-The expectations for stage three are:
-- To conduct brainstorming sessions 
-- To conduct affinity diagramming sessions 
-- To select and polish ideas 
-- To refine ideas and create a storyboard 
-- To create a low- fidelity prototype 
-- To conduct a Task-centered system cognitive walkthrough
-- To create a 4 minute prototype demo 
-- To prepare an 8-12 minute project presentation for Stage Three
+The expectations for stage four are:
+- To reflect on our Low-Fi prototype
+- To prototypr 4 major user tasks 
+- To do a UX design for the app
+- To come up with UI visual design 
+- To create a prototype that is usable 
+- There should be response to all user actions 
+- To conduct heuristic evaluation 
+- To create a heuristic evaluation report
+- To create a Hi-Fi Prototype Demo 
+- To create a prsentation for the stage 4 work 
